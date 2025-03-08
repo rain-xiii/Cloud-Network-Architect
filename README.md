@@ -42,6 +42,6 @@ All implementations pass [AWS Well-Architected Tool](https://aws.amazon.com/well
 ---
 
 **📞 Let's Connect!**  
-Ready to implement enterprise(SMEs, Startup) network solutions? [Schedule Technical Review](mailto:your.email@example.com?subject=Blueprint%20Discussion) 
+Ready to implement enterprise(SMEs, Startup) network solutions? [Schedule Technical Review](mailto:rainning.rb@gmail.com?subject=Security%20Audit)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](YOUR_LINKEDIN_URL) | [![Portfolio](https://img.shields.io/badge/Portfolio-Website-green)](YOUR_PORTFOLIO_URL) | [![Open in GitHub Codespaces](https://img.shields.io/badge/Open%20in-Codespaces-blue)](https://github.com/codespaces/new)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/rainb/) | [![Portfolio](https://img.shields.io/badge/Portfolio-Website-green)](https://github.com/rain-xiii/AWS-DevOps-Portfolio) | [![Open in GitHub Codespaces](https://img.shields.io/badge/Open%20in-Codespaces-blue)](https://github.com/codespaces/new)
